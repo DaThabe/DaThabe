@@ -1,4 +1,6 @@
-### Hi there 👋
+### (ノдヽ)
+
+喜欢c# 但是学不会的辣鸡
 
 <!--
 **DaThabe/DaThabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://github-readme-stats.vercel.app/api?username=DaThabe)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaThabe)
