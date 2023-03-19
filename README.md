@@ -8,10 +8,18 @@
 
 ## 我的 Github
 
+![Profile Views](https://komarev.com/ghpvc/?username=DaThabe&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/DaThabe?style=social)
+![Repos](https://badges.pufler.dev/repos/DaThabe)
+![Commits](https://badges.pufler.dev/commits/monthly/DaThabe)
+
 虽然我只是一个 Github 菜鸟，但我已经积累了一些小小的成就：
 
 - 我 star 了一些著名的开源项目。
 - 在学习过程中，我直接调包。
+
+![](https://github-readme-stats.vercel.app/api?username=DaThabe)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaThabe)
 
 ## 联系我
 
@@ -22,7 +30,3 @@
 - [![Twitter](https://img.shields.io/badge/Twitter-DaThabe-blue?style=flat-square&logo=twitter)](https://twitter.com/DaThabe)
 - [![Email](https://img.shields.io/badge/Email-dathabe%40163.com-red?style=flat-square&logo=mail.ru)](mailto:dathabe@163.com)
 - [![Bilibili](https://img.shields.io/badge/Bilibili-百合本-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/8042774)
-
-![](https://github-readme-stats.vercel.app/api?username=DaThabe)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaThabe)
