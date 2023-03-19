@@ -17,9 +17,11 @@
 
 如果你想要了解更多关于我的信息，都可以通过以下方式联系到我。
 
-- 微信：[![WeChat](https://img.shields.io/badge/WeChat-DaThabe-brightgreen?style=flat-square&logo=wechat)](https://img.shields.io/badge/WeChat-DaThabe-brightgreen?style=flat-square&logo=wechat)
-- 推特：[![Twitter](https://img.shields.io/twitter/follow/DaThabe?style=social)](https://twitter.com/DaThabe)
-- 邮箱：[![Email](https://img.shields.io/badge/Email-dathabe%40163.com-red?style=flat-square&logo=mail.ru)](mailto:dathabe@163.com)
+- ![QQ](https://img.shields.io/badge/QID-DaThabe-blue?style=flat-square&logo=tencentqq)
+- ![WeChat](https://img.shields.io/badge/WeChat-DaThabe-brightgreen?style=flat-square&logo=wechat)
+- [![Twitter](https://img.shields.io/badge/Twitter-DaThabe-blue?style=flat-square&logo=twitter)](https://twitter.com/DaThabe)
+- [![Email](https://img.shields.io/badge/Email-dathabe%40163.com-red?style=flat-square&logo=mail.ru)](mailto:dathabe@163.com)
+- [![Bilibili](https://img.shields.io/badge/Bilibili-百合本-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/8042774)
 
 ![](https://github-readme-stats.vercel.app/api?username=DaThabe)
 
