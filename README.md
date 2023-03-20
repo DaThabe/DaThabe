@@ -18,8 +18,9 @@
 - 我 star 了一些著名的开源项目。
 - 在学习过程中，我直接调包。
 
-![](https://github-readme-stats.vercel.app/api?username=DaThabe)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaThabe)
+![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=DaThabe&count_private=true&show_icons=true&locale=cn)
+
+![Top Langs](https://github-readme-stats-lwd-temp.vercel.app//api/top-langs/?username=DaThabe&langs_count=10&layout=compact&locale=cn)
 
 ## 联系我
 
