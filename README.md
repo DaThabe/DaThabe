@@ -2,8 +2,7 @@
 
 我是 DaThabe，这是我的 GitHub 主页。
 
-- 我其实不是计算机专业出身，但是我对编程和技术有着浓厚的兴趣。
-- 喜欢在 GitHub 上探索各种新奇有趣的项目，也喜欢分享自己的代码和经验。
+- 喜欢探索各位有趣的项目，也喜欢分享自己的代码和经验。
 - 除了编程以外，我还喜欢看傻卵二刺螈🦎，你也喜欢吗？
 
 ## 我的 Github
@@ -18,9 +17,7 @@
 - 我 star 了一些著名的开源项目。
 - 在学习过程中，我直接调包。
 
-![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=DaThabe&count_private=true&show_icons=true&locale=cn)
-
-![Top Langs](https://github-readme-stats-lwd-temp.vercel.app//api/top-langs/?username=DaThabe&langs_count=10&layout=compact&locale=cn)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/dathabe/github-readme-stats)
 
 ## 联系我
 
